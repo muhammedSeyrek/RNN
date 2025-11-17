@@ -1,0 +1,15 @@
+# Temel kütüphaneler
+numpy>=1.21.0
+matplotlib>=3.4.0
+pandas>=1.3.0
+
+# Görselleştirme
+seaborn>=0.11.0
+
+# Jupyter notebook için (opsiyonel)
+jupyter>=1.0.0
+ipython>=7.26.0
+
+# İleri seviye için (ilerleyen adımlarda kullanılacak)
+scikit-learn>=0.24.0
+tqdm>=4.62.0
